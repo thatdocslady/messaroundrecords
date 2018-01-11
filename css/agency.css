@@ -443,6 +443,7 @@ section#contact {
   background-color: #212529;
   background-image: url("../img/contact-us.jpg");
   background-repeat: no-repeat;
+  opacity: 0.5;
   background-position: center; }
   section#contact .section-heading {
     color: #fff; }
